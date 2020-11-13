@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MainProject</string>
+    <string name="some_new_string">Some new string</string>
+    <string name="just_button">Just button</string>
+    <string name="your_favorite_food">Your favorite food</string>
+    <string name="cake">Cake</string>
+    <string name="steak">Steak</string>
+    <string name="coffee">Coffee</string>
+    <string name="tea">Tee</string>
+    <string name="choose">Choose</string>
+</resources>

@@ -1,0 +1,3 @@
+include ':eludoM'
+include ':app'
+rootProject.name = "PhoneApp"
