@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
@@ -24,13 +29,29 @@
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../andfun-kotlin-android-trivia" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Лабораторна №1 Android.docx.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/eludoM/PhoneApp.eludoM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/eludoM/PhoneApp.eludoM.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eludoM/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/eludoM/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eludoM/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eludoM/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eludoM/src/main/java/com/example/eludom/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/eludoM/src/main/java/com/example/eludom/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eludoM/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eludoM/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eludoM/src/main/res/layout/lab1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eludoM/src/main/res/layout/lab1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eludoM/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eludoM/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_2_API_28]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -48,22 +69,40 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1kENl1UhtFLJmjpo2tjLCjHJXBC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_28" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-11-23T12:18:24.681Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.666530023">
+      <recent name="com.example.eludom" />
+    </key>
   </component>
   <component name="RunManager" selected="Android App.eludoM">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -130,7 +169,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="eludoM" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="eludoM" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="PhoneApp.eludoM" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -187,6 +226,10 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+      <item itemvalue="Android App.eludoM" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -211,11 +254,64 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="286" y="143" width="824" height="515" key="IDE.errors.dialog" timestamp="1605261953071">
+    <state x="161" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605524904423">
       <screen x="40" y="27" width="1326" height="741" />
     </state>
-    <state x="286" y="143" width="824" height="515" key="IDE.errors.dialog/40.27.1326.741@40.27.1326.741" timestamp="1605261953071" />
+    <state x="161" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/40.27.1326.741@40.27.1326.741" timestamp="1605524904423" />
+    <state x="435" y="189" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605524876176">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state x="435" y="189" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog/40.27.1326.741@40.27.1326.741" timestamp="1605524876176" />
+    <state x="436" y="146" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605268284278">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state x="436" y="146" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/40.27.1326.741@40.27.1326.741" timestamp="1605268284278" />
+    <state x="140" y="127" width="1126" height="541" key="AVDManager" timestamp="1606135120617">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state x="140" y="127" width="1126" height="541" key="AVDManager/40.27.1326.741@40.27.1326.741" timestamp="1606135120617" />
+    <state x="286" y="155" width="824" height="491" key="AndroidCreateResourceDirectoryDialog" timestamp="1606133085075">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state x="286" y="155" width="824" height="491" key="AndroidCreateResourceDirectoryDialog/40.27.1326.741@40.27.1326.741" timestamp="1606133085075" />
+    <state x="286" y="155" width="824" height="491" key="AndroidCreateResourceFileDialog" timestamp="1605526762311">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state x="286" y="155" width="824" height="491" key="AndroidCreateResourceFileDialog/40.27.1326.741@40.27.1326.741" timestamp="1605526762311" />
+    <state x="519" y="189" width="357" height="423" key="AndroidCreateXmlResourceDialog" timestamp="1606133116193">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state x="519" y="189" width="357" height="423" key="AndroidCreateXmlResourceDialog/40.27.1326.741@40.27.1326.741" timestamp="1606133116193" />
+    <state width="1280" height="172" key="GridCell.Tab.0.bottom" timestamp="1605529905331">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state width="1280" height="172" key="GridCell.Tab.0.bottom/40.27.1326.741@40.27.1326.741" timestamp="1605529905331" />
+    <state width="1280" height="172" key="GridCell.Tab.0.center" timestamp="1605529905329">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state width="1280" height="172" key="GridCell.Tab.0.center/40.27.1326.741@40.27.1326.741" timestamp="1605529905329" />
+    <state width="1280" height="172" key="GridCell.Tab.0.left" timestamp="1605529905328">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state width="1280" height="172" key="GridCell.Tab.0.left/40.27.1326.741@40.27.1326.741" timestamp="1605529905328" />
+    <state width="1280" height="172" key="GridCell.Tab.0.right" timestamp="1605529905330">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state width="1280" height="172" key="GridCell.Tab.0.right/40.27.1326.741@40.27.1326.741" timestamp="1605529905330" />
+    <state x="286" y="143" width="824" height="515" key="IDE.errors.dialog" timestamp="1606133847598">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state x="286" y="143" width="824" height="515" key="IDE.errors.dialog/40.27.1326.741@40.27.1326.741" timestamp="1606133847598" />
+    <state x="192" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1606134684888">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state x="192" y="31" width="1022" height="737" key="SettingsEditor/40.27.1326.741@40.27.1326.741" timestamp="1606134684887" />
+    <state x="366" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1605527291126">
+      <screen x="40" y="27" width="1326" height="741" />
+    </state>
+    <state x="366" y="88" width="672" height="678" key="search.everywhere.popup/40.27.1326.741@40.27.1326.741" timestamp="1605527291126" />
   </component>
 </project>
